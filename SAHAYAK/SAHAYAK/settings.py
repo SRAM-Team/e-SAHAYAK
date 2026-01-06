@@ -171,4 +171,4 @@ CORS_ALLOWED_ORIGINS = [
 CORS_ALLOW_CREDENTIALS = True
 # Only for dev not for productions
 
-CORS_ALLOW_ALL_ORIGINS = False # Temporarily enabled for debugging. REMOVE IN PRODUCTION!
+CORS_ALLOW_ALL_ORIGINS = True # Temporarily enabled for debugging. REMOVE IN PRODUCTION!
